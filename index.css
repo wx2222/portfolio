@@ -596,6 +596,10 @@ body:not(.user-is-tabbing) a:focus {
     height: 4rem;
 }
 
+.github_link {
+    display: inline-flex;  
+}
+
 .footer__github-buttons {
     display: flex;
     justify-content: center;
