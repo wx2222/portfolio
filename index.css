@@ -491,12 +491,13 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .workTitle {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     display: inline-block; 
     padding: 0.2em 0.5em; 
     margin: 2px 0; 
     font-weight: bold;
+
 }
 
 @media(min-width: 901px) {
