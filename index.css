@@ -527,6 +527,11 @@ body:not(.user-is-tabbing) a:focus {
     }
 }
 
+.experienceDiv {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
 /* --------------------------------------- */
 /* ----- About ----- */
 /* --------------------------------------- */
