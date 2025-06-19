@@ -597,7 +597,8 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .github_link {
-    display: inline-flex;  
+    display: flex;  
+    flex-direction: row;
 }
 
 .footer__github-buttons {
